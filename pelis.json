@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Jurassic Park",
+    "rating": 4,
+    "tags": ["acción", "dinosaurios", "antigua"]
+  },
+  {
+    "title": "Avengers",
+    "rating": 3,
+    "tags": ["acción", "peleas", "futuristica"]
+  },
+  {
+    "title": "Stars Wars: Clone Wars",
+    "rating": 2,
+    "tags": ["favorita, serie, accion, espacio"]
+  },
+  {
+    "title": "Scary Movie",
+    "rating": 1,
+    "tags": ["divertida", "humor", "miedo"]
+  },
+  {
+    "title": "Pokemon",
+    "rating": 5,
+    "tags": ["animales", "humor", "peleas", "aventura"]
+  }
+]
